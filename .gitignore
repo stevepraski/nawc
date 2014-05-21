@@ -32,3 +32,12 @@ build/
 
 # unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
 .rvmrc
+
+# configuration
+config.yml
+
+# end-user supplied authentication hook
+/support/auth.rb
+
+# no lock
+Gemfile.lock

@@ -1,0 +1,6 @@
+dev_environment:
+  browser: "firefox"
+  login:
+    url: "http://some_web_site"
+    username: "user"
+    password: "password"
