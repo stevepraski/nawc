@@ -39,5 +39,8 @@ config.yml
 # end-user supplied authentication hook
 /support/auth.rb
 
+# end-user site definitions
+/sites/
+
 # no lock
 Gemfile.lock
